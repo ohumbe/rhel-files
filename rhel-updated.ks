@@ -30,7 +30,7 @@ skipx
 # System services
 services --enabled="chronyd"
 # System timezone
-timezone America/New_York --isUtc
+timezone America/Los_Angeles --isUtc
 
 %packages
 @^minimal-environment
